@@ -3,7 +3,6 @@
 A powerful, flexible timer system for Unity that provides an elegant alternative to coroutines for time-based operations.
 
 [![Unity](https://img.shields.io/badge/Unity-2020.3+-black.svg)](https://unity3d.com/get-unity/download)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Features
 
@@ -516,33 +515,17 @@ Check out the [Examples](Examples/) folder for complete sample scenes:
 ## Requirements
 
 - Unity 2020.3 or later
-- .NET Standard 2.1
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Inspired by Godot's Timer and Tween systems
-- Built with ❤️ for the Unity community
 
 ## Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/chrono/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/chrono/discussions)
+- 📧 Email: aag75yssar@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/AhmedGD1/chrono/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/AhmedGD1/chrono/discussions)
 
 ---
 
-**Made with ⏱️ by [Your Name]**
+**Made [Ahmed GD]**
