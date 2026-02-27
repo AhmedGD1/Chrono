@@ -13,6 +13,7 @@ namespace Chrono
         
         public float Elapsed   => WaitTime - timeLeft;
         public float Remaining => timeLeft;
+        public bool IsPlaying  => !paused && !completed; 
         public bool IsPaused   => paused;
         public bool Unscaled   => unscaled;
         public bool Persistent => persistent;
