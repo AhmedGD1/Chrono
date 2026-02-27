@@ -1,0 +1,21 @@
+{
+  "name": "com.chrono.timer",
+  "version": "1.0.0",
+  "displayName": "Chrono",
+  "description": "A lightweight, coroutine-free timer library for Unity. Schedule, chain, group, and control timers with a clean fluent API.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Ahmed_GD",
+    "email": "aag75yssar@gmail.com",
+    "url": "https://github.com/AhmedGD1/Chrono"
+  },
+  "keywords": [
+    "timer",
+    "scheduler",
+    "coroutine",
+    "delay",
+    "interval"
+  ],
+  "dependencies": {}
+}
