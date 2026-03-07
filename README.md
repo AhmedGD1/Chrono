@@ -11,7 +11,7 @@ Coroutines work, but they're annoying to manage. Cancelling them requires storin
 ## Installation
 Add via Unity Package Manager using the git URL:
 ```
-https://github.com/yourname/chrono.git
+https://github.com/AhmedGD1/chrono.git
 ```
 
 Or drop the `Chrono` folder directly into your project. No setup required — Chrono creates its own GameObject at runtime automatically.
@@ -174,4 +174,5 @@ void OnSomethingHappened()
 | `yield return new WaitForSecondsRealtime(2f)` | `Clock.Schedule(2f, callback).SetUnscaled()` |
 | `yield return new WaitUntil(() => condition)` | `Clock.WaitUntil(() => condition, callback)` |
 | `while(true) yield return new WaitForSeconds(1f)` | `Clock.Interval(1f, callback)` |
+
 | `StopCoroutine(...)` | `timer.Cancel()` |
